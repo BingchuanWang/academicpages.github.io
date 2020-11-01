@@ -12,7 +12,8 @@ I am currently an assistant professor in School of Automation, Central South Uni
 
 Research Interests
 ------
-My research interests include data-driven modeling and optimization with applications to distributed parameter systems. Specifically, I am interested in:
--constrained optimizaion, multiobjective constrained optimization, and expensive constrained optimization
--
-
+My research interests include data-driven modeling and optimization with applications to lithium-ion batteries. Specifically, I am interested in:
+- Evolutionary computation for constrained optimization, constrained multiobjective optimization, and constrained expensive optimization, etc.
+- Data-driven methods (e.g. Gaussian process, RBFNN, deep learning) for modeling of distributed parameter systems.
+- Multi-fidelity model-assisted optimization
+- Modeling and optimization for battery management using the above methods
