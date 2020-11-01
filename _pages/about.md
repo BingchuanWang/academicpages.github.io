@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in the School of Automation, Central South University. I am also with the [CITAA Group](https://intleo.csu.edu.cn/index.html) led by Prof. Yong Wang.  
+I am currently an assistant professor in [School of Automation](https://soa.csu.edu.cn/), [Central South University](http://www.csu.edu.cn/). I am also with the [CITAA Group](https://intleo.csu.edu.cn/index.html) led by Prof. Yong Wang. I recieved my Bachelor’s degree and Master's degree both in School of Automation, Central South University and the Ph.D. degree in [Department of Systems Engineering and Engineering Management](https://www.cityu.edu.hk/seem/), [City University of Hong kong](https://www.cityu.edu.hk/) under the supervision of Prof. [Han-Xiong Li](https://www.cityu.edu.hk/seem/mehxli/).
 
 A data-driven personal website
 ======
