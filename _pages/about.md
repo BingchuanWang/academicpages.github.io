@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,3 +17,7 @@ My research interests include data-driven modeling and optimization with applica
 - Data-driven methods (e.g. Gaussian process, RBFNN, deep learning) for modeling of distributed parameter systems.
 - Multi-fidelity model-assisted optimization
 - Modeling and optimization for battery management using the above methods
+
+Selected Publications
+------
+1. Y. Wang, J.P. Li, X. Xue and **B.C. Wang<sub>*</sub>**, "Utilizing the Correlation Between Constraints and Objective Function for Constrained Evolutionary Optimization," ***IEEE Transactions on Evolutionary Computation***, vol. 24, no. 1, pp. 29-43, Feb. 2020, doi: 10.1109/TEVC.2019.2904900.
