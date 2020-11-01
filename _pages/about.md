@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in the School of Automation, Central South University. I am aso with the [CITAA group] (https://intleo.csu.edu.cn/index.html) led by Prof. Yong Wang.  
+I am currently an assistant professor in the School of Automation, Central South University. I am also with the [CITAA Group](https://intleo.csu.edu.cn/index.html) led by Prof. Yong Wang.  
 
 A data-driven personal website
 ======
