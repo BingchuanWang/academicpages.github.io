@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Bing-Chuan Wang', 'email', 'url', 'message']
+  allowedFields          : ['Bing-Chuan Wang', 'bcwang@csu.edu.cn', 'url', '....']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
