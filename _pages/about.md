@@ -13,12 +13,11 @@ I am currently an assistant professor in School of Automation, Central South Uni
 Research Interests
 ------
 My research interests include data-driven modeling and optimization with applications to lithium-ion batteries. Specifically, I am interested in:
-- Evolutionary computation for constrained optimization, constrained multiobjective optimization, and constrained expensive optimization, etc.
+- Evolutionary computation for constrained optimization, constrained multiobjective optimization, and constrained expensive optimization.
 - Data-driven methods (e.g. Gaussian process, RBFNN, deep learning) for modeling of distributed parameter systems.
-- Multi-fidelity model-assisted optimization
 - Modeling and optimization for battery management using the above methods
 
 Selected Publications
 ------
-1. Y. Wang, J.P. Li, X. Xue and **B.C. Wang<sup>\ast</sup>**, "Utilizing the Correlation Between Constraints and Objective Function for Constrained Evolutionary Optimization," ***IEEE Transactions on Evolutionary Computation***, vol. 24, no. 1, pp. 29-43, Feb. 2020.
+1. Y. Wang, J.P. Li, X. Xue and **B.C. Wang<sup>$\ast$</sup>**, "Utilizing the Correlation Between Constraints and Objective Function for Constrained Evolutionary Optimization," ***IEEE Transactions on Evolutionary Computation***, vol. 24, no. 1, pp. 29-43, Feb. 2020.
 2. 
