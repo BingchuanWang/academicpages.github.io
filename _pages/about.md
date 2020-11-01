@@ -21,3 +21,5 @@ Selected Publications
 ------
 1. Y. Wang, J. P. Li, X. Xue and __B. C. Wang<sup>\*</sup>__, "Utilizing the Correlation Between Constraints and Objective Function for Constrained Evolutionary Optimization," ___IEEE Transactions on Evolutionary Computation___, vol. 24, no. 1, pp. 29-43, Feb. 2020.
 2. __B. C. Wang__, H. X. Li, J. P. Li and Y. Wang, "Composite Differential Evolution for Constrained Evolutionary Optimization," ___IEEE Transactions on Systems, Man, and Cybernetics: Systems___, vol. 49, no. 7, pp. 1482-1495, July 2019.
+3. __B. C. Wang__, H. X. Li, Q. Zhang and Y. Wang, "Decomposition-Based Multiobjective Optimization for Constrained Evolutionary Optimization," ___IEEE Transactions on Systems, Man, and Cybernetics: Systems___, in press, doi: 10.1109/TSMC.2018.2876335.
+4. 
