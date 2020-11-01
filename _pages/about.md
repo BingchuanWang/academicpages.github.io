@@ -19,5 +19,5 @@ My research interests include data-driven modeling and optimization with applica
 
 Selected Publications
 ------
-1. <font size=5>Y. Wang, J.P. Li, X. Xue and **B.C. Wang<sup>\*</sup>**, "Utilizing the Correlation Between Constraints and Objective Function for Constrained Evolutionary Optimization," ***IEEE Transactions on Evolutionary Computation***, vol. 24, no. 1, pp. 29-43, Feb. 2020.</font>
-2. <font size=5>**B.C. Wang**, H. Li, J. Li and Y. Wang, "Composite Differential Evolution for Constrained Evolutionary Optimization," ***IEEE Transactions on Systems, Man, and Cybernetics: Systems***, vol. 49, no. 7, pp. 1482-1495, July 2019.</font>  
+1. Y. Wang, J.P. Li, X. Xue and **B.C. Wang<sup>\*</sup>**, "Utilizing the Correlation Between Constraints and Objective Function for Constrained Evolutionary Optimization," ***IEEE Transactions on Evolutionary Computation***, vol. 24, no. 1, pp. 29-43, Feb. 2020.
+2. **B.C. Wang**, H. Li, J. Li and Y. Wang, "Composite Differential Evolution for Constrained Evolutionary Optimization," ***IEEE Transactions on Systems, Man, and Cybernetics: Systems***, vol. 49, no. 7, pp. 1482-1495, July 2019.
