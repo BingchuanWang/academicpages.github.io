@@ -8,7 +8,7 @@ venue: 'IEEE Transactions on Cybernetics'
 paperurl: 
 citation: 
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Yong Wang, __Bing-Chuan Wang__, Han-Xiong Li, Gary G. Yen.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
