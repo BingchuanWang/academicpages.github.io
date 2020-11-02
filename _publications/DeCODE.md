@@ -10,4 +10,4 @@ citation:
 ---
 __Bing-Chuan Wang__, Han-Xiong Li, Qingfu Zhang, Yong Wang.
 
-[\[PDF\]](http://bingchuanwang.github.io/files/DeCODE.pdf) [\[code\]](http://bingchuanwang.github.io/files/DeCODE.rar
+[\[PDF\]](http://bingchuanwang.github.io/files/DeCODE.pdf) [\[code\]](http://bingchuanwang.github.io/files/DeCODE.rar)
