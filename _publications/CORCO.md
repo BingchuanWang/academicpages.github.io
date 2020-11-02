@@ -10,4 +10,4 @@ citation:
 ---
 Yong Wang, Jia-Peng Li, Xihui Xue, __Bing-Chuan Wang<sup>\*</sup>__.
 
-[\[PDF\]](http://bingchuanwang.github.io/files/FROFI.pdf) [\[code\]](http://bingchuanwang.github.io/files/FROFI.rar)
+[\[PDF\]](http://bingchuanwang.github.io/files/CORCO.pdf) [\[code\]](http://bingchuanwang.github.io/files/CORCO.rar)
