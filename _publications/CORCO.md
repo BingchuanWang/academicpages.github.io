@@ -8,6 +8,6 @@ venue: 'IEEE Transactions on Evolutionary Computation'
 paperurl: 
 citation: 
 ---
-Yong Wang, __Bing-Chuan Wang__, Han-Xiong Li, Gary G. Yen.
+Yong Wang, Jia-Peng Li, Xihui Xue, __Bing-Chuan Wang<sup>\*</sup>__.
 
 [\[PDF\]](http://bingchuanwang.github.io/files/FROFI.pdf) [\[code\]](http://bingchuanwang.github.io/files/FROFI.rar)
