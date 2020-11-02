@@ -10,4 +10,4 @@ citation:
 ---
 Yong Wang, __Bing-Chuan Wang__, Han-Xiong Li, Gary G. Yen.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[\[PDF\]](http://academicpages.github.io/files/paper2.pdf)
