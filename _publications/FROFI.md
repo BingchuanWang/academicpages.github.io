@@ -10,4 +10,4 @@ citation:
 ---
 Yong Wang, __Bing-Chuan Wang__, Han-Xiong Li, Gary G. Yen.
 
-[\[PDF\]](http://bingchuanwang.github.io/files/FROFI.pdf)[\[CODE\]] (http://bingchuanwang.github.io/files/FROFI.rar)
+[\[PDF\]](http://bingchuanwang.github.io/files/FROFI.pdf) [\[CODE\]] (http://bingchuanwang.github.io/files/FROFI.rar)
