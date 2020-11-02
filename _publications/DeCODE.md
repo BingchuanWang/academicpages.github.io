@@ -5,7 +5,7 @@ permalink: /publication/DeCODE
 excerpt: 
 date: 2018-10-01
 venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
-paperurl: 'http://bingchuanwang.github.io/files/DeCODE.pdf'
+paperurl: 
 citation: 
 ---
 __Bing-Chuan Wang__, Han-Xiong Li, Qingfu Zhang, Yong Wang.
