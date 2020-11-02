@@ -10,4 +10,4 @@ citation:
 ---
 __Bing-Chuan Wang__, Han-Xiong Li, Jia-Peng Li, Yong Wang.
 
-[\[PDF\]](http://bingchuanwang.github.io/files/FROFI.pdf) [\[code\]](http://bingchuanwang.github.io/files/FROFI.rar)
+[\[PDF\]](http://bingchuanwang.github.io/files/C2oDE.pdf) [\[code\]](http://bingchuanwang.github.io/files/C2oDE.rar)
