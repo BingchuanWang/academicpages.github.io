@@ -2,7 +2,7 @@
 title: "Utilizing the Correlation Between Constraints and Objective Function for Constrained Evolutionary Optimization"
 collection: publications
 permalink: /publication/CORCO
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 
 date: 2020-02-01
 venue: 'IEEE Transactions on Evolutionary Computation'
 paperurl: 
