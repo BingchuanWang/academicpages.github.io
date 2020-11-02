@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/DeCODE
 excerpt: 
 date: 2018-10-01
-venue: ' IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
 paperurl: 
 citation: 
 ---
