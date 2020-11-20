@@ -3,7 +3,7 @@ title: "A Surrogate-Assisted Teaching-Learning-Based Optimization for Parameter 
 collection: publications
 permalink: /publication/SATLBO
 excerpt: 
-date: 2019-07-01
+date: 2020-11-20
 venue: 'IEEE Transactions on Industrial Informatics'
 paperurl: 
 citation: 
