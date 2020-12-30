@@ -1,7 +1,7 @@
 ---
 title: "An Improved Teaching-Learning-Based Optimization for Constrained Evolutionary Optimization"
 collection: publications
-permalink: /publication/DeCODE
+permalink: /publication/ITLBO
 excerpt: 
 date: 2018-8-01
 venue: 'Information Sciences'
