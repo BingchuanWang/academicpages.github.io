@@ -10,4 +10,5 @@ citation:
 ---
 __Bing-Chuan Wang__, Han-Xiong Li, Yun Feng, Wen-Jing Shen<sup>\*</sup>__.
 
-[\[PDF\]](http://bingchuanwang.github.io/files/AFPDE.pdf)
+[\[PDF\]](http://bingchuanwang.github.io/files/AFPDE.pdf) [\[code\]](http://bingchuanwang.github.io/files/AFPDE.rar)
+
