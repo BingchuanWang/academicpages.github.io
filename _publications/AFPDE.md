@@ -8,6 +8,6 @@ venue: 'Information Sciences'
 paperurl: 
 citation: 
 ---
-__Bing-Chuan Wang__, Han-Xiong Li.
+__Bing-Chuan Wang__, Han-Xiong Li, Yun Feng, Wen-Jing Shen<sup>\*</sup>__.
 
 [\[PDF\]](http://bingchuanwang.github.io/files/AFPDE.pdf)
