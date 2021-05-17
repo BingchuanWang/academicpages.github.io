@@ -3,7 +3,7 @@ title: "An Adaptive Fuzzy Penalty Method for Constrained Evolutionary Optimizati
 collection: publications
 permalink: /publication/AFPDE
 excerpt: 
-date: 2020-05-13
+date: 2021-05-13
 venue: 'Information Sciences'
 paperurl: 
 citation: 
