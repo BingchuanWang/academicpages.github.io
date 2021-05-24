@@ -8,6 +8,6 @@ venue: 'IEEE Transactions on Industrial Informatics'
 paperurl: 
 citation: 
 ---
-Zhi-Zhong Liu, __Bing-Chuan Wang__, Ke Tang.
+Yong Wang, Shi-Hui He, __Bing-Chuan Wang<sup>\*</sup>__.
 
-[\[PDF\]](http://bingchuanwang.github.io/files/BiC.pdf)
+[\[PDF\]](http://bingchuanwang.github.io/files/DETEM.pdf)
