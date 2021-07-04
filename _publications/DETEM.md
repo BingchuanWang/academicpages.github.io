@@ -9,5 +9,3 @@ paperurl:
 citation: 
 ---
 Yong Wang, Shi-Hui He, __Bing-Chuan Wang<sup>\*</sup>__.
-
-[\[PDF\]](http://bingchuanwang.github.io/files/DETEM.pdf)
