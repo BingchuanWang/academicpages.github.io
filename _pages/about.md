@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor in School of Automation, Central South University. I am also with the [IntLeO Group](https://intleo.csu.edu.cn/index.html) led by Prof. Yong Wang. I recieved my Bachelor degree and Master degree both in School of Automation, Central South University and the Ph.D. degree in Department of Systems Engineering and Engineering Management, City University of Hong Kong under the supervision of Prof. [Han-Xiong Li](https://www.cityu.edu.hk/seem/mehxli/). Dr. [Yun Feng](https://yunfeng.netlify.app/) is one of my collaborators.
+I am currently an associate professor in School of Automation, Central South University. I am also with the [IntLeO Group](https://intleo.csu.edu.cn/index.html) led by Prof. Yong Wang. I recieved my Bachelor degree and Master degree both in School of Automation, Central South University and the Ph.D. degree in Department of Systems Engineering and Engineering Management, City University of Hong Kong under the supervision of Prof. [Han-Xiong Li](https://www.cityu.edu.hk/seem/mehxli/). 
 
 Research Interests
 ------
@@ -28,3 +28,8 @@ Selected Publications
 7. Y. Feng and __B. C. Wang<sup>\*</sup>__, "A Unified Framework of Epidemic Spreading Prediction by Empirical Mode Decomposition- Based Ensemble Learning Techniques," ___IEEE Transactions on Computational Social Systems___, vol. 6, no. 4, pp. 660-669, Aug. 2019.
 8. Y. Zhou, __B. C. Wang<sup>\*</sup>__, and H. X. Li, "A Surrogate-Assisted Teaching-Learning-Based Optimization for Parameter Identification of The Battery Model," ___IEEE Transactions on Industrial Informatics___, in press, doi: 10.1109/TII.2020.3038949.
 9. Y. Wang, S.H. He, __B. C. Wang<sup>\*</sup>__, "Evolutionary Sensor Placement for Spatiotemporal Modeling of Battery Thermal Process,"  ___IEEE Transactions on Industrial Informatics___, in press.
+
+collaborators
+---
+[Dr. Yun Feng](https://yunfeng.netlify.app/)
+[Dr. Zhi-Zhong Liu](https://www.researchgate.net/profile/Zhizhong-Liu)
