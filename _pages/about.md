@@ -29,7 +29,7 @@ Selected Publications
 8. Y. Zhou, __B. C. Wang<sup>\*</sup>__, and H. X. Li, "A Surrogate-Assisted Teaching-Learning-Based Optimization for Parameter Identification of The Battery Model," ___IEEE Transactions on Industrial Informatics___, in press, doi: 10.1109/TII.2020.3038949.
 9. Y. Wang, S.H. He, __B. C. Wang<sup>\*</sup>__, "Evolutionary Sensor Placement for Spatiotemporal Modeling of Battery Thermal Process,"  ___IEEE Transactions on Industrial Informatics___, in press.
 
-collaborators
+Collaborators
 ---
 - [Dr. Yun Feng](https://yunfeng.netlify.app/)
 - [Dr. Zhi-Zhong Liu](https://www.researchgate.net/profile/Zhizhong-Liu)
