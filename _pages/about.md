@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor in School of Automation, Central South University. I am also with the [IntLeO Group](https://intleo.csu.edu.cn/index.html) led by Prof. Yong Wang. I recieved my Bachelor degree and Master degree both in School of Automation, Central South University and the Ph.D. degree in Department of Systems Engineering and Engineering Management, City University of Hong Kong under the supervision of Prof. [Han-Xiong Li](https://www.cityu.edu.hk/seem/mehxli/). Dr. [Yun Feng] (https://yunfeng.netlify.app/) is one of my collaborators.
+I am currently an associate professor in School of Automation, Central South University. I am also with the [IntLeO Group](https://intleo.csu.edu.cn/index.html) led by Prof. Yong Wang. I recieved my Bachelor degree and Master degree both in School of Automation, Central South University and the Ph.D. degree in Department of Systems Engineering and Engineering Management, City University of Hong Kong under the supervision of Prof. [Han-Xiong Li](https://www.cityu.edu.hk/seem/mehxli/). Dr. [Yun Feng](https://yunfeng.netlify.app/) is one of my collaborators.
 
 Research Interests
 ------
