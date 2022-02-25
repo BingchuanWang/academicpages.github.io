@@ -27,7 +27,8 @@ Selected Publications
 6. __B. C. Wang__ and H. X. Li, "A Sliding Window Based Dynamic Spatiotemporal Modeling for Distributed Parameter Systems With Time-Dependent Boundary Conditions," ___IEEE Transactions on Industrial Informatics___, vol. 15, no. 4, pp. 2044-2053, April 2019.
 7. Y. Feng and __B. C. Wang<sup>\*</sup>__, "A Unified Framework of Epidemic Spreading Prediction by Empirical Mode Decomposition- Based Ensemble Learning Techniques," ___IEEE Transactions on Computational Social Systems___, vol. 6, no. 4, pp. 660-669, Aug. 2019.
 8. Y. Zhou, __B. C. Wang<sup>\*</sup>__, and H. X. Li, "A Surrogate-Assisted Teaching-Learning-Based Optimization for Parameter Identification of The Battery Model," ___IEEE Transactions on Industrial Informatics___, in press, doi: 10.1109/TII.2020.3038949.
-9. Y. Wang, S.H. He, __B. C. Wang<sup>\*</sup>__, "Evolutionary Sensor Placement for Spatiotemporal Modeling of Battery Thermal Process,"  ___IEEE Transactions on Industrial Informatics___, in press.
+9. Y. Wang, S.H. He, __B. C. Wang<sup>\*</sup>__, "Evolutionary Sensor Placement for Spatiotemporal Modeling of Battery Thermal Process,"  ___IEEE Transactions on Industrial Informatics___, vol. 18, no. 4, pp. 2223-2232, April 2022.
+10. Z.Y. Shui, X.H. Li, Y. Feng, __B. C. Wang<sup>\*</sup>__, Y. Wang "Combining Reduced-Order Model with Data-Driven Model for Parameter Estimation of Lithium-Ion Battery,"  ___IEEE Transactions on Industrial Electronics___, in press.
 
 Collaborators
 ---
